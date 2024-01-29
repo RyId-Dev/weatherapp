@@ -1,0 +1,36 @@
+.main {
+    border: 5px solid #ffffff;
+    padding: 10px;
+    text-align: center;
+}
+
+
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: normal;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: normal;
+    background-color: darkgoldenrod;
+}
+
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: normal;
+}
+
+#weatherName {
+    text-transform: capitalize;
+}
+
+::placeholder {
+    text-align: center;
+    line-height: 65px;
+}
